@@ -47,7 +47,7 @@ A simple to-do app built with
 
     python manage.py runserver
 
-Note: The default DB in-built in Django is sqlite3 and we are using it as our feautures of our data are pretty simple.
+Note: The default DB in-built in Django is sqlite3 and we are using it as our features of our data are pretty simple.
 
 
 
