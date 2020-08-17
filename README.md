@@ -1,6 +1,6 @@
 # to-do
 
-A simple Django web app for daily use.
+A simple Django web app for daily use.I have recently deployed it on heroku server. Here is my [To-do](https://nsn-todo.herokuapp.com/) app. Feel free to use it anytime!
 
 ### Homepage
 
@@ -18,6 +18,4 @@ A simple Django web app for daily use.
 
 ![Changes](imgs/deleted_task.png)
 
-### Website
 
-I have recently deployed it on heroku server. Here is my [To-do](https://nsn-todo.herokuapp.com/) app. Feel free to use it anytime!
