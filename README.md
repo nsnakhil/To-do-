@@ -12,7 +12,7 @@ A simple Django web app for daily use.
 
 ### Delete Task 
 
-![Delete](imgs/deleteTasks.png)
+![Delete](imgs/deleteTask.png)
 
 ### After changes
 
@@ -20,4 +20,4 @@ A simple Django web app for daily use.
 
 ### Website
 
-I have recently deployed it on heroku server. Here is my [to-do](https://nsn-todo.herokuapp.com/). Feel free to use it anytime!
+I have recently deployed it on heroku server. Here is my [To-do](https://nsn-todo.herokuapp.com/) app. Feel free to use it anytime!
